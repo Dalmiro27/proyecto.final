@@ -79,3 +79,13 @@ textarea {
     height: auto;
     display: block;
 }
+
+.product{
+    width: 650px;
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-items: center;
+    gap: 60px 30px;
+    margin: 0 auto;
+}
